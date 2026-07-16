@@ -1,6 +1,6 @@
 # 🚀 Azure Retail Data Platform
 
-> An end-to-end Azure Data Engineering project implementing a modern Lakehouse Architecture using **Azure Databricks, PySpark, Delta Lake, Unity Catalog, and Azure Data Lake Storage Gen2 (ADLS Gen2).**
+ An end-to-end Azure Data Engineering project implementing a modern Lakehouse Architecture using **Azure Databricks, PySpark, Delta Lake, Unity Catalog, and Azure Data Lake Storage Gen2 (ADLS Gen2).**
 
 ---
 
