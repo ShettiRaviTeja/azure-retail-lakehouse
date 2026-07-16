@@ -13,7 +13,7 @@ This project demonstrates the implementation of a scalable Azure Lakehouse that 
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="docs/azure_lakehouse_diagram.png" width="100%" alt="Azure Retail Data Platform Architecture">
+  <img src="docs/azure_lakehouse_diagram" width="100%" alt="Azure Retail Data Platform Architecture">
 </p>
 
 ---
