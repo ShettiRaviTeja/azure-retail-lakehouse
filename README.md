@@ -43,15 +43,8 @@ azure-retail-data-platform
 │   └── serviceprincipal
 │
 ├── datasets
-│   ├── source_crm
-│   │   ├── cust_info.csv
-│   │   ├── prd_info.csv
-│   │   └── sales_details.csv
-│   │
-│   └── source_erp
-│       ├── CUST_AZ12.csv
-│       ├── LOC_A101.csv
-│       └── PX_CAT_G1V2.csv
+│   ├── source_crm/
+│   └── source_erp/
 │
 ├── docs
 │   └── azure_lakehouse_architecture.png
